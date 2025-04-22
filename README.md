@@ -1,10 +1,14 @@
 # Using Time-Independent Resource Limits to Improve the Reproducibility of CPAchecker
-## Bachelor’s Thesis in Computer Science
 
-The Jupyter notebooks can be conveniently launched at:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amp-man/bt_time-indent-analysis/HEAD)
+## Bachelor's Thesis  
+**Software and Computational Systems Lab**  
+Faculty of Computer Science  
+**Ludwig-Maximilians-University of Munich**
 
-Code can be evaluated at:
-https://gitlab.com/sosy-lab/software/cpachecker/-/tree/statistics-refactor
+---
 
-Or svn branch: statistics-refactor
+### 📓 Interactive Notebooks  
+Launch the accompanying Jupyter notebooks conveniently via **[Binder](https://mybinder.org/v2/gh/amp-man/bachelors-thesis_cpachecker/HEAD)**.
+
+### 🧑‍💻 Source Code  
+The source code developed as part of this thesis is available for review on **[GitLab](https://gitlab.com/sosy-lab/software/cpachecker/-/tree/statistics-refactor)**.
